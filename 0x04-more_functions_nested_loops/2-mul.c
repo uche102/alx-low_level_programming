@@ -2,12 +2,12 @@
 
 /*
 *mul - multiplies two numbers
-*@a: first number
-*@b: second numberReturn: returns result
+*98: first number
+*1024: second numberReturn: returns result
 */
 
-int void mat_ mul(int a, *int b)
+int mul(98, 1024);
 {
-	return (a * b);
+	return (98 * 1024);
 }
 
