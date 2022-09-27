@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * _strchr - locates a character in a string
@@ -7,7 +7,7 @@ include "main.h"
  *
  *  Return: pointer to spot in s with c or null
  */
-char *_strchr(char *s, char c);
+char *_strchr(char *s, char c)
 {
 	int i;
 
